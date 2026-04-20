@@ -1,14 +1,14 @@
 ---
 layout: landing-page
-sectionKey: Formatting content
-order: 1
-eleventyNavigation:
-  parent: Images and videos
-title: Formatting images
-description: Learn how to format images to use in GOV.UK content, including using alt text, copyright permissions and Govspeak Markdown.
+sectionKey: formatting-content
+Order: 2
+eleventyNavigation: 
+parent: formatting-content
+
+title: images
+description: Learn how to format images to use in GOV.UK content, icnluding using alt text, copyright permissions and Govspeak Markdown.
 lastUpdated:
 ---
-
 [[TOC]]
 
 Before you can add images into the content, you'll need to properly format them. How you do this has some differences depending on if the image is:
