@@ -1,7 +1,7 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
-order: 4
+order: 5
 eleventyNavigation:
   parent: Formatting content
 title: Content blocks

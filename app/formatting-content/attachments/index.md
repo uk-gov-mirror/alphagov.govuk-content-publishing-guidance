@@ -1,7 +1,7 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
-order: 3
+order: 4
 eleventyNavigation:
   parent: Formatting content
 title: Attachments
