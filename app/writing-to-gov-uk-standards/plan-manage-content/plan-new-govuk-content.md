@@ -62,8 +62,8 @@ Depending on what's in your content, you should also read guidance on:
 + [formatting text](/formatting-content/text-formatting/), including adding headings, bullet points and addresses
 + [adding attachments](/formatting-content/attachments/)
 + [adding tables](/formatting-content/text-formatting/tables/)
-+ [adding images](/formatting-content/images-videos/formatting-images/)
-+ [adding videos](/formatting-content/images-videos/formatting-videos/)
++ [adding images](/formatting-content/images/)
++ [adding videos](/formatting-content/videos/)
 
 All this guidance will tell you how to make your content accessible.
 
