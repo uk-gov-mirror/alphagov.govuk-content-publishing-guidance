@@ -137,7 +137,7 @@ Content tagged to the topical event will automatically appear in the 'Latest' fe
 
 ## Feature tagged content
 
-You can feature up to 6 pieces of content. Any items you feature must include an image. Read the guidance on [formatting images](/formatting-content/images-videos/formatting-images/) for help with picking an image.
+You can feature up to 6 pieces of content. Any items you feature must include an image. Read the guidance on [formatting images](/formatting-content/images/) for help with picking an image.
 
 If the content is published through Whitehall Publisher:
 

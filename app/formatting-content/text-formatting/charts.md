@@ -100,4 +100,4 @@ This is so they're accessible for users who are colour blind or have low vision.
 
 ## Add other types of charts
 
-If you want to add another type of chart, like a line graph or pie chart, you'll need to upload it as an image. Read the guidance on [formatting images](/formatting-content/images-videos/formatting-images/) to find out how to create an accessible image.
+If you want to add another type of chart, like a line graph or pie chart, you'll need to upload it as an image. Read the guidance on [formatting images](/formatting-content/images/) to find out how to create an accessible image.

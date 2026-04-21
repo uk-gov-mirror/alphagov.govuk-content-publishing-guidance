@@ -38,7 +38,7 @@ This will take you to the organisation page to edit.
 
 Featured content appears under the 'Featured' section near the top of your organisation page. You can feature up to 6 pieces of published content. Do not feel that you have to use all the feature slots: the fewer content items you feature, the more they stand out.
 
-Any items you feature must include an image that's 960 pixels wide and 640 pixels high. There's more [guidance on formatting images](/formatting-content/images-videos/formatting-images/) if you need it.
+Any items you feature must include an image that's 960 pixels wide and 640 pixels high. There's more [guidance on formatting images](/formatting-content/images/) if you need it.
 
 You can feature some content not published using Whitehall Publisher, including:
 
