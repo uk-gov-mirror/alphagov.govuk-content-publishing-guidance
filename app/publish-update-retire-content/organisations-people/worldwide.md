@@ -87,7 +87,7 @@ If the content is published through Whitehall Publisher:
 2. Select the 'Documents' tab (or 'Topical events' tab for a topical event).
 3. You'll see a list of published content tagged to this world location. Use the search filter to the left of the list to find the content you want to feature.
 4. Select the 'Feature' button next to the document you want to feature.
-5. Select a 960 pixels wide and 640 pixels high image to be shown on your organisation page with this feature. Read the [image formatting guidance](/formatting-content/images-videos/formatting-images/) for help.
+5. Select a 960 pixels wide and 640 pixels high image to be shown on your organisation page with this feature. Read the [image formatting guidance](/formatting-content/images/) for help.
 6. Select 'Save'.
 7. You can select the top 5 items you want to appear. Reorder the items by selecting 'Reorder documents'.
 

@@ -138,7 +138,7 @@ Every post should have a featured image. This is displayed on your blog's homepa
 Featured images should not be larger than 1MB.
 
 >[!NOTE]
->Read more about how to [format images](/formatting-content/images-videos/formatting-images/) used in content, including how to make them accessible and how to attribute the source.
+>Read more about how to [format images](/formatting-content/images/) used in content, including how to make them accessible and how to attribute the source.
 
 ### Excerpt text
 
