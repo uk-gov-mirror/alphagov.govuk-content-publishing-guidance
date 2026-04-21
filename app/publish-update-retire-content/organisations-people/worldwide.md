@@ -98,7 +98,7 @@ If the content is not published through Whitehall Publisher:
 3. Complete the required fields, including the URL.
 4. Select 'Save'.
 5. Select 'Feature' next to the link you want to feature.
-6. Select a 960 pixels wide and 640 pixels high image to be shown on your organisation page with this feature. Read the [image formatting guidance](/formatting-content/images-videos/formatting-images/) for help.
+6. Select a 960 pixels wide and 640 pixels high image to be shown on your organisation page with this feature. Read the [image formatting guidance](/formatting-content/images/) for help.
 7. Select 'Save'.
 
 If you want to reorder the featured content:
@@ -140,7 +140,7 @@ Only create a new worldwide organisation page if you have permission from a mana
 4. Complete the title, summary and body text.
 5. Under 'Associations', you can tag the organisation to world locations, [role pages](/publish-update-retire-content/organisations-people/people-roles) and UK government organisations.
 6. In the 'Logo formatted name' box, write the organisation name as you want it to appear. For example, all on one line or split on different lines.
-7. You can also upload and save a default news image for the organisation page. Make sure you've correctly [formatted the image](/formatting-content/images-videos/formatting-images/) before you add it.
+7. You can also upload and save a default news image for the organisation page. Make sure you've correctly [formatted the image](/formatting-content/images/) before you add it.
 8. Select 'Save'.
 
 You can now add translations, attachments, offices, information pages and social media accounts.
