@@ -219,10 +219,6 @@ Title case.
 
 The abbreviation should come first as it's more widely known than the full name. Please note that the abbreviation has changed to Bacs.
 
-### backend
-
-Used in a technical context, not "back-end" or "back end".
-
 ### Bank details
 
 When adding bank details:
@@ -262,7 +258,7 @@ Always use billion in money (and million): £138 billion.
 
 Use billions in phrases: billions of people.
 
-Do not use £0.xx billion for amounts less than £1 billion, unless it's in a sequence where you're talking about amounts above £1 billion. For example: "There was £15.6 billion spent in August 2024, an increase of £0.2 billion". If you're using it outside of the sequence again, use £2 million. 
+Do not use £0.xx billion for amounts less than £1 billion, unless it's in a sequence where you're talking about amounts above £1 billion. For example: "There was £15.6 billion spent in August 2024, an increase of £0.2 billion". If you're using it outside of the sequence again, use £200 million. 
 
 Do not abbreviate billion to b.
 
@@ -592,15 +588,6 @@ Lower case.
 
 Lower case unless used in the full title, like the National Assembly for Wales (Legislative Competence) (Social Welfare) Order 2008.
 
-### Components that control other components
-
-In technical writing, use:
-
-- primary for a component that controls other components
-- secondary for a component that's controlled by the primary component
-
-Do not use master or slave.
-
 ### conduct of business rules
 
 Lower case.
@@ -755,7 +742,7 @@ When writing date ranges:
 * if the range is showing opening times on days, put different days on a new line - for example, 'Monday to Friday, 9am to 5pm', then 'Saturday, 10am to 1pm' on a new line
 * do not use quarter for dates, use the months - for example, 'department expenses, Jan to Mar 2013'
 * when referring to today (as in a news article) include the date - for example, 'The minister announced today (14 June 2012) that…'
-* when mentioning a deadline, use 'one or before' - for example, 'Submit the form on or before 6 September 2025'
+* when mentioning a deadline, use 'on or before' - for example, 'Submit the form on or before 6 September 2025'
 
 ### Daycare Trust
 
@@ -1254,10 +1241,6 @@ Hyphenated.
 
 Lower case.
 
-### HTTPS
-
-Upper case. No need to explain the abbreviation if it's used in content for a technical audience.
-
 ### human resources
 
 Lower case.
@@ -1359,10 +1342,6 @@ Lower case.
 ### Intrastat Supplementary Declaration
 
 Title case.
-
-### IP
-
-When used in the technical context (for example 'internet protocol'), there's no need to explain the abbreviation.
 
 ### Italics
 
@@ -1540,10 +1519,6 @@ Use the minus sign for subtraction. Use the correct symbol for the multiplicatio
 Write out and hyphenate fractions: two-thirds, three-quarters.
 
 Write out decimal fractions as numerals. Use the same number format for a sequence: 0.75 and 0.45.
-
-### MD5
-
-Used in a technical context there's no need to explain the abbreviation.
 
 ### Measurements
 

@@ -36,6 +36,9 @@ You can then add a final outcome to explain the government's response to the cal
 
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
+
+{% include 'reusable-content/remove-history-mode.md' %}
+
 ### If you're creating a new call for evidence
 
 1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
@@ -82,8 +85,6 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 9. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, select the relevant option under 'Do users have to know the content has changed?' and add your change notes (you can edit them again before you publish the draft).
 10. Select the 'Save' button at the bottom of the page.
 11. Go to the 'Attachments' tab if you want to edit any of the documents. You can quickly overwrite previous versions of attachments if you upload new files with the same file names as your old ones.
-
-{% include 'reusable-content/remove-history-mode.md' %}
 
 ### If you're adding a final outcome to a closed call for evidence
 

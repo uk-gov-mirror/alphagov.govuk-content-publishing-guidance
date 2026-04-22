@@ -154,7 +154,7 @@ Do not attach more than the previous 6 months of minutes. Link to the [National 
 
 You can use either an inline link or a publication box.
 
-## No images available
+## Images
 
 {% include 'reusable-content/add-images-not-available.md' %}
 

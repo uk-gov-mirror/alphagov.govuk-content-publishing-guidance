@@ -14,7 +14,7 @@ Every piece of published content should meet a valid user need.
 
 Writing good user needs means we can create content to help our users do the things they need to.
 
-## How to find out your user's needs
+## Find out your users' needs
 
 Content designers are not user researchers. As users and their needs become more complex, you will ideally work with user researchers to learn about your users and their needs. However, there are things you can do yourself to learn about your users' needs.
 
@@ -36,7 +36,7 @@ There are other [data and analytics tools you can use to support your content de
 
 If you feel like you cannot learn enough from your users this way, try to work with user researchers or performance analysts to go further.
 
-## How to write a user need
+## Write a user need
 
 All GOV.UK user needs follow the same template, with 3 parts.
 
@@ -114,7 +114,7 @@ This is not a valid user need because it creates a 'need' to justify existing co
 
 Assumptions we make when designing a piece of content or service can often be wrong. We need to find the best solution to meet each user need.
 
-## Consider using acceptance criteria
+## Write acceptance criteria
 
 Acceptance criteria can help define a user need by listing what must be done for the need to be met.
 
@@ -125,3 +125,17 @@ For example, from the 'good example' used above, the acceptance criteria could b
 * can apply for Carer's Allowance
 * understands how much they are entitled to
 
+## Record user needs
+
+You should record and store any user needs for content you create. You may find it helpful to keep information about:
+
+* when the user need is met (acceptance criteria)
+* any supporting evidence for the need
+* why the need is in [proposition for GOV.UK](https://www.gov.uk/government/publications/govuk-proposition/govuk-proposition)
+
+The primary publishing organisation (the organisation responsible for owning, publishing and maintaining the content) should maintain a record of user needs and content meeting that need.
+
+You can maintain a list of user needs by using:
+
+* a spreadsheet
+* an online database tool (following your organisation’s policy on online tools)
